@@ -8,10 +8,5 @@ describe('My First Test Suite', () => {
    // cy.contains('Top').click()
     cy.contains('Top').click({force:true})
     cy.url().should('include','top')
-
-
-
-
-
   })
 })
