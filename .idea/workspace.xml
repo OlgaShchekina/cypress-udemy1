@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf956d66-9757-4990-8617-376689a39e97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cypress/integration/examples/Test3.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/integration/examples/Test4.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/examples/Test5.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/examples/Test6.spec.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test4.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/Test4.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,18 +59,34 @@
       <option name="presentableId" value="Default" />
       <updated>1592508904258</updated>
       <workItem from="1592508905612" duration="101000" />
-      <workItem from="1592509143146" duration="23906000" />
+      <workItem from="1592509143146" duration="32650000" />
     </task>
+    <task id="LOCAL-00001" summary="some more practise">
+      <created>1592940515398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592940515398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some more practise" />
+    <option name="LAST_COMMIT_MESSAGE" value="some more practise" />
   </component>
   <component name="WindowStateProjectService">
     <state x="398" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592525874336">
       <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state x="398" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.833@0.23.1440.833" timestamp="1592525874336" />
+    <state x="469" y="192" key="CommitChangelistDialog2" timestamp="1592940515200">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="469" y="192" key="CommitChangelistDialog2/0.23.1440.833@0.23.1440.833" timestamp="1592940515200" />
     <state x="592" y="343" key="Github.ShareDialog" timestamp="1592884092012">
       <screen x="0" y="23" width="1440" height="833" />
     </state>
