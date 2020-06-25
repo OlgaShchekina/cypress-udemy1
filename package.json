@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "e2e": "cypress open"
+    "test": "./node_modules/.bin/cypress run",
+    "e2e": "cypress open",
+    "chromeTest": "npm run test -- --browser chrome",
+    "recordDashboard" : "cypress run --record --key 27e638dc-1178-4152-a5b3-7bd7e6067b51",
+    "practiceTests" : "npm run test -- --spec 'cypress/integration/practiceTests/*' "
   },
   "keywords": [],
   "author": "",
@@ -13,6 +16,8 @@
   "devDependencies": {
     "cypress": "^4.8.0",
     "cypress-iframe": "^1.0.1",
-    "cypress-xpath": "^1.6.0"
+    "cypress-xpath": "^1.6.0",
+    "mocha": "^8.0.1",
+    "mochawesome": "^6.1.1"
   }
 }

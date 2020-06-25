@@ -1,0 +1,100 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2020-06-25T18:42:04.701Z",
+    "end": "2020-06-25T18:42:19.091Z",
+    "duration": 14390,
+    "testsRegistered": 1,
+    "passPercent": 100,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "f316fee0-7f16-4cf5-94fe-1ada12eabc09",
+      "title": "",
+      "fullFile": "cypress/integration/practiceTests/CheckBoxesDropdownRadioBtn.js",
+      "file": "cypress/integration/practiceTests/CheckBoxesDropdownRadioBtn.js",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "facd5a32-3de5-41c6-bdbd-eb1ce45ea431",
+          "title": "My First Test Suite",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "My first case",
+              "fullTitle": "My First Test Suite My first case",
+              "timedOut": null,
+              "duration": 10463,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "cy.visit(Cypress.env('url') + 'AutomationPractice/'); //Check boxes\ncy.get('#checkBoxOption1').check().should('be.checked').and('have.value', 'option1');\ncy.get('#checkBoxOption1').uncheck().should('not.be.checked');\ncy.get('input[type=\"checkbox\"]').check(['option2', 'option3']); //Static Dropdown\ncy.get('select').select('option2').should('have.value', 'option2'); //Dynamic dropdown\ncy.get('#autocomplete').type('ind');\ncy.get('.ui-menu-item div').each(function ($el, index, $list) {\n  if ($el.text() === 'India') {\n    cy.wrap($el).click();\n  }\n});\ncy.get('#autocomplete').should('have.value', 'India'); //visible not visible element\ncy.get('#displayed-text').should('be.visible');\ncy.get('#hide-textbox').click();\ncy.get('#displayed-text').should('not.be.visible');\ncy.get('#show-textbox').click();\ncy.get('#displayed-text').should('be.visible'); //radio button\ncy.get('input[value=\"radio2\"]').check().should('be.checked');",
+              "err": {},
+              "uuid": "e06a0f53-9324-4976-9d18-d98c4ef241c9",
+              "parentUUID": "facd5a32-3de5-41c6-bdbd-eb1ce45ea431",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [
+            "e06a0f53-9324-4976-9d18-d98c4ef241c9"
+          ],
+          "failures": [],
+          "pending": [],
+          "skipped": [],
+          "duration": 10463,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": true,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "6.1.1"
+    },
+    "marge": {
+      "options": null,
+      "version": "5.1.0"
+    }
+  }
+}

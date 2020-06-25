@@ -1,3 +1,8 @@
 {
-  "defaultCommandTimeout":6000
+  "defaultCommandTimeout": 6000,
+  "env": {
+    "url": "https://rahulshettyacademy.com/"
+  },
+  "projectId": "bjtxmo",
+  "reporter": "mochawesome"
 }

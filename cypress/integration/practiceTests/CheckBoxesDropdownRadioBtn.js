@@ -1,7 +1,7 @@
 
 describe('My First Test Suite', () => {
   it('My first case', () => {
-    cy.visit('https://rahulshettyacademy.com/AutomationPractice/')
+    cy.visit(Cypress.env('url')+'AutomationPractice/')
 
     //Check boxes
     cy.get('#checkBoxOption1').check().should('be.checked').and('have.value', 'option1')

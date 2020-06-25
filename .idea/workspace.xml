@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf956d66-9757-4990-8617-376689a39e97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/integration/examples/Test&amp;Framework.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/integration/pageObjects/HomePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/integration/pageObjects/ProductPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cypress-udemy1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cypress-udemy1.iml" afterDir="false" />
+    <list default="true" id="cf956d66-9757-4990-8617-376689a39e97" name="Default Changelist" comment="some more practise">
+      <change afterPath="$PROJECT_DIR$/mochawesome-report/assets/MaterialIcons-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mochawesome-report/assets/MaterialIcons-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mochawesome-report/assets/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mochawesome-report/assets/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mochawesome-report/assets/roboto-light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mochawesome-report/assets/roboto-light-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mochawesome-report/assets/roboto-medium-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mochawesome-report/assets/roboto-medium-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mochawesome-report/assets/roboto-regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mochawesome-report/assets/roboto-regular-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mochawesome-report/mochawesome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mochawesome-report/mochawesome.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cypress.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/fixtures/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/fixtures/example.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test1.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/BasicCommands.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test2.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/CheckBoxesDropdownRadioBtn.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test3.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/WindowsTabPopUp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test4.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/ElementInTable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test5.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/MouseOver.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test6.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/GetAttrValue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test7.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/Frame.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/support/commands.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/commands.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/BasicCommands.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/BasicCommands.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/CheckBoxesDropdownRadioBtn.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/practiceTests/CheckBoxesDropdownRadioBtn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/ElementInTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/practiceTests/ElementInTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Frame.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/practiceTests/Frame.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/GetAttrValue.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/practiceTests/GetAttrValue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/MouseOver.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/practiceTests/MouseOver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test&amp;Framework.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/Test&amp;Framework.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/WindowsTabPopUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/practiceTests/WindowsTabPopUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/videos/Test1.spec.js.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,18 +44,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dVSjjiTR1xBI44eGhhDC6BJzqn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cypress/integration/pageObjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cypress/integration/practiceTests" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,6 +72,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cypress/integration/practiceTests" />
       <recent name="$PROJECT_DIR$/cypress/integration/pageObjects" />
       <recent name="$PROJECT_DIR$/cypress/integration/examples" />
     </key>
@@ -76,7 +88,10 @@
       <option name="presentableId" value="Default" />
       <updated>1592508904258</updated>
       <workItem from="1592508905612" duration="101000" />
-      <workItem from="1592509143146" duration="51771000" />
+      <workItem from="1592509143146" duration="52683000" />
+      <workItem from="1593045886735" duration="181000" />
+      <workItem from="1593046358228" duration="11307000" />
+      <workItem from="1593109971408" duration="1197000" />
     </task>
     <task id="LOCAL-00001" summary="some more practise">
       <created>1592940515398</created>
@@ -99,29 +114,38 @@
       <option name="project" value="LOCAL" />
       <updated>1592960293510</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="some more practise">
+      <created>1593045003109</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593045003109</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="some more practise" />
     <option name="LAST_COMMIT_MESSAGE" value="some more practise" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="398" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592525874336">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state x="398" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593109924701">
+      <screen x="0" y="23" width="1440" height="832" />
     </state>
+    <state x="398" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.832@0.23.1440.832" timestamp="1593109924701" />
     <state x="398" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.833@0.23.1440.833" timestamp="1592525874336" />
     <state x="466" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592957025083">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="466" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.832@0.23.1440.832" timestamp="1592957025083" />
-    <state x="469" y="192" key="CommitChangelistDialog2" timestamp="1592960293307">
+    <state x="453" y="192" key="CommitChangelistDialog2" timestamp="1593045875723">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="469" y="192" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1592960293307" />
+    <state x="453" y="192" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1593045875723" />
     <state x="469" y="192" key="CommitChangelistDialog2/0.23.1440.833@0.23.1440.833" timestamp="1592940515200" />
     <state x="592" y="343" key="Github.ShareDialog" timestamp="1592884092012">
       <screen x="0" y="23" width="1440" height="833" />
@@ -135,9 +159,9 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="443" y="133" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1593036296659" />
-    <state x="352" y="294" key="Vcs.Push.Dialog.v2" timestamp="1592960299646">
+    <state x="352" y="294" key="Vcs.Push.Dialog.v2" timestamp="1593056486661">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="352" y="294" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1592960299646" />
+    <state x="352" y="294" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1593056486661" />
   </component>
 </project>

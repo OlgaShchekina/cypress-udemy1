@@ -1,7 +1,7 @@
 
 describe('My First Test Suite', () => {
   it('My first case', () => {
-    cy.visit('https://rahulshettyacademy.com/AutomationPractice/')
+    cy.visit(Cypress.env('url')+'AutomationPractice/')
 
     //find element in table
     cy.xpath('//table[@id="product"]//tr//td[2]')
