@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf956d66-9757-4990-8617-376689a39e97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cypress/integration/examples/Test6.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/integration/examples/Test7.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/examples/Test&amp;Framework.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/pageObjects/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/pageObjects/ProductPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cypress-udemy1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cypress-udemy1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test5.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/Test5.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/chess-leftPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/chess-leftPanel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/fixtures/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/fixtures/example.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test1.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/BasicCommands.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test2.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/CheckBoxesDropdownRadioBtn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test3.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/WindowsTabPopUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test4.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/ElementInTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test5.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/MouseOver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test6.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/GetAttrValue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test7.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/Frame.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/commands.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/commands.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +44,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cypress/integration/examples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cypress/integration/pageObjects" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,9 +56,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cypress/integration/pageObjects" />
       <recent name="$PROJECT_DIR$/cypress/integration/examples" />
     </key>
   </component>
@@ -62,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592508904258</updated>
       <workItem from="1592508905612" duration="101000" />
-      <workItem from="1592509143146" duration="36066000" />
+      <workItem from="1592509143146" duration="51771000" />
     </task>
     <task id="LOCAL-00001" summary="some more practise">
       <created>1592940515398</created>
@@ -78,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592957057035</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some more practise">
+      <created>1592960293510</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592960293510</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,10 +118,10 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="466" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.832@0.23.1440.832" timestamp="1592957025083" />
-    <state x="469" y="192" key="CommitChangelistDialog2" timestamp="1592957056867">
+    <state x="469" y="192" key="CommitChangelistDialog2" timestamp="1592960293307">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="469" y="192" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1592957056867" />
+    <state x="469" y="192" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1592960293307" />
     <state x="469" y="192" key="CommitChangelistDialog2/0.23.1440.833@0.23.1440.833" timestamp="1592940515200" />
     <state x="592" y="343" key="Github.ShareDialog" timestamp="1592884092012">
       <screen x="0" y="23" width="1440" height="833" />
@@ -110,5 +131,13 @@
       <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state x="532" y="145" key="Github.UntrackedFilesDialog/0.23.1440.833@0.23.1440.833" timestamp="1592884109195" />
+    <state x="443" y="133" key="SettingsEditor" timestamp="1593036296659">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="443" y="133" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1593036296659" />
+    <state x="352" y="294" key="Vcs.Push.Dialog.v2" timestamp="1592960299646">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="352" y="294" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1592960299646" />
   </component>
 </project>
