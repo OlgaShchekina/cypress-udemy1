@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cf956d66-9757-4990-8617-376689a39e97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cypress/integration/examples/fakeApITest.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/videos/practiceTests/CheckBoxesDropdownRadioBtn.js.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/videos/practiceTests/ElementInTable.js.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/videos/practiceTests/Frame.js.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/videos/practiceTests/GetAttrValue.js.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/videos/practiceTests/MouseOver.js.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/videos/practiceTests/WindowsTabPopUp.js.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mochawesome-report/mochawesome.html" beforeDir="false" afterPath="$PROJECT_DIR$/mochawesome-report/mochawesome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mochawesome-report/mochawesome.json" beforeDir="false" afterPath="$PROJECT_DIR$/mochawesome-report/mochawesome.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +61,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -77,7 +85,7 @@
       <workItem from="1592509143146" duration="52683000" />
       <workItem from="1593045886735" duration="181000" />
       <workItem from="1593046358228" duration="11307000" />
-      <workItem from="1593109971408" duration="7174000" />
+      <workItem from="1593109971408" duration="8362000" />
     </task>
     <task id="LOCAL-00001" summary="some more practise">
       <created>1592940515398</created>
@@ -114,11 +122,29 @@
       <option name="project" value="LOCAL" />
       <updated>1593120041127</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="some more practise">
+      <created>1593140078326</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593140078327</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -135,10 +161,10 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="466" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.832@0.23.1440.832" timestamp="1592957025083" />
-    <state x="453" y="192" key="CommitChangelistDialog2" timestamp="1593120040727">
+    <state x="453" y="192" key="CommitChangelistDialog2" timestamp="1593140077801">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="453" y="192" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1593120040727" />
+    <state x="453" y="192" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1593140077801" />
     <state x="469" y="192" key="CommitChangelistDialog2/0.23.1440.833@0.23.1440.833" timestamp="1592940515200" />
     <state x="592" y="343" key="Github.ShareDialog" timestamp="1592884092012">
       <screen x="0" y="23" width="1440" height="833" />
@@ -148,13 +174,13 @@
       <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state x="532" y="145" key="Github.UntrackedFilesDialog/0.23.1440.833@0.23.1440.833" timestamp="1592884109195" />
-    <state x="443" y="133" key="SettingsEditor" timestamp="1593036296659">
+    <state x="443" y="133" key="SettingsEditor" timestamp="1593224872104">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="443" y="133" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1593036296659" />
-    <state x="352" y="294" key="Vcs.Push.Dialog.v2" timestamp="1593120045402">
+    <state x="443" y="133" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1593224872103" />
+    <state x="352" y="294" key="Vcs.Push.Dialog.v2" timestamp="1593140082594">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="352" y="294" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1593120045402" />
+    <state x="352" y="294" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1593140082594" />
   </component>
 </project>
