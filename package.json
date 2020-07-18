@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/cypress run",
-    "e2e": "cypress open",
-    "chromeTest": "npm run test -- --browser chrome",
+    "open": "cypress open",
+    "chromeTest": "npm run test --headless --browser chrome",
     "recordDashboard": "cypress run --record --key 27e638dc-1178-4152-a5b3-7bd7e6067b51",
     "practiceTests": "npm run test -- --spec 'cypress/integration/practiceTests/*' "
   },

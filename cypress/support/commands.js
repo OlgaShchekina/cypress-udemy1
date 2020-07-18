@@ -30,3 +30,18 @@ Cypress.Commands.add("selectProduct", (productName) => {
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
 
+Cypress.Commands.add('login', () => {
+    const username = 'testUser'
+    const password = 'pa55word'
+
+    // it is ok for the username to be visible in the Command Log
+    expect(username, 'username was set').to.be.a('string').and.not.be.empty
+    // but the password value should not be shown
+    if (typeof password !== 'string' || !password) {
+      throw new Error('Missing password value, set using CYPRESS_password=...')
+    }
+
+
+  })
+
+

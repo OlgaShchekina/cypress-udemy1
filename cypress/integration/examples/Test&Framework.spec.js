@@ -43,6 +43,7 @@ describe('Framework', () => {
     })
 
     cy.get('.btn.btn-success').click()
+    cy.get().should('have.text','hello')
     cy.get('#country').type('India')
     cy.xpath('//div[@class="suggestions"]//a').click()
     cy.get('#checkbox2').check({force: true}).should('be.checked')
