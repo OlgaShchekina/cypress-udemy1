@@ -20,25 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf956d66-9757-4990-8617-376689a39e97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cypress/integration/examples/chess-logout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/videos/examples/BasicCommands.spec.js.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/fixtures/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/fixtures/example.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/BasicCommands.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/BasicCommands.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/Test&amp;Framework.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/Test&amp;Framework.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/chess-leftPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/examples/chess-leftPanel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/integration/pageObjects/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/pageObjects/HomePage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cypress/support/commands.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/commands.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/videos/practiceTests/CheckBoxesDropdownRadioBtn.js.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/videos/practiceTests/ElementInTable.js.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/videos/practiceTests/Frame.js.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/videos/practiceTests/GetAttrValue.js.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/videos/practiceTests/MouseOver.js.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/videos/practiceTests/WindowsTabPopUp.js.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mochawesome-report/mochawesome.html" beforeDir="false" afterPath="$PROJECT_DIR$/mochawesome-report/mochawesome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mochawesome-report/mochawesome.json" beforeDir="false" afterPath="$PROJECT_DIR$/mochawesome-report/mochawesome.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/videos/practiceTests/ElementInTable.js.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/videos/practiceTests/ElementInTable.js.mp4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +104,8 @@
       <workItem from="1594918491441" duration="189000" />
       <workItem from="1594929173396" duration="15000" />
       <workItem from="1594929888063" duration="2139000" />
-      <workItem from="1595045902852" duration="1127000" />
+      <workItem from="1595045902852" duration="1871000" />
+      <workItem from="1595105983656" duration="411000" />
     </task>
     <task id="LOCAL-00001" summary="some more practise">
       <created>1592940515398</created>
@@ -171,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593224881747</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="some more practise">
+      <created>1595047202742</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595047202742</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,9 +196,10 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="466" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.832@0.23.1440.832" timestamp="1592957025083" />
-    <state x="453" y="192" key="CommitChangelistDialog2" timestamp="1593224881574">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state x="453" y="188" key="CommitChangelistDialog2" timestamp="1595047202368">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
+    <state x="453" y="188" key="CommitChangelistDialog2/0.23.1440.828@0.23.1440.828" timestamp="1595047202368" />
     <state x="453" y="192" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1593224881574" />
     <state x="469" y="192" key="CommitChangelistDialog2/0.23.1440.833@0.23.1440.833" timestamp="1592940515200" />
     <state x="592" y="343" key="Github.ShareDialog" timestamp="1592884092012">
@@ -221,9 +214,10 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="443" y="133" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1593224872103" />
-    <state x="352" y="294" key="Vcs.Push.Dialog.v2" timestamp="1593224887155">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state x="352" y="293" key="Vcs.Push.Dialog.v2" timestamp="1595047206626">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
+    <state x="352" y="293" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1595047206626" />
     <state x="352" y="294" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1593224887155" />
   </component>
 </project>
